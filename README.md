@@ -1,1 +1,1 @@
-# Capstone_rpg
+aoc 2024 solutions
