@@ -32,7 +32,7 @@ def check_combinations(test_value, numbers):
             return expression
     return None
 
-filename = 'aoc7.txt'
+filename = 'exampleseven.txt'
 data_dict = convert_file_to_dict(filename)
 
 total_sum = 0
